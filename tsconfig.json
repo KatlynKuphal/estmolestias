@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "esModuleInterop": true
+    },
+    "exclude": ["node_modules/**"]
+}
